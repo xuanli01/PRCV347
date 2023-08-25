@@ -40,5 +40,7 @@ Then, test the model
 python test.py -d ucf -p /path/of/the/root/of/test/I3D/features -c ucf_model.pkl
 ```
 
+## Supplementary Material
+Supplementary material can be found in 0347_supp.pdf
 
 
